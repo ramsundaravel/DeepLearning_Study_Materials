@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# addition folders
+reference/
+
+# not needed ipynb
+Untitled.ipynb
